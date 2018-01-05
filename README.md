@@ -1,4 +1,4 @@
-[a link](https://necheporenko.github.io/SoftIndex)
+[https://necheporenko.github.io/SoftIndex](https://necheporenko.github.io/SoftIndex)
 
 ## Getting Started
 
