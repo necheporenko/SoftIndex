@@ -1,6 +1,10 @@
 ## Getting Started
 
 Clone the repo:
+```sh
+https://github.com/necheporenko/SoftIndex.git
+cd SoftIndex
+```
 
 Install yarn:
 ```js
