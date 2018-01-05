@@ -1,0 +1,8 @@
+Install yarn:
+npm install -g yarn
+
+Install dependencies:
+yarn
+
+Start server:
+yarn run dev
