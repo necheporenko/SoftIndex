@@ -1,3 +1,7 @@
+```sh
+https://necheporenko.github.io/SoftIndex
+```
+
 ## Getting Started
 
 Clone the repo:
