@@ -2,6 +2,7 @@
   "name": "softindex",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://necheporenko.github.io/SoftIndex",
   "dependencies": {
     "react": "^16.2.0",
     "react-bootstrap-table": "^4.3.1",
@@ -10,6 +11,8 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
