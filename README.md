@@ -1,5 +1,5 @@
 ```sh
-https://necheporenko.github.io/SoftIndex
+[a link](https://necheporenko.github.io/SoftIndex)
 ```
 
 ## Getting Started
